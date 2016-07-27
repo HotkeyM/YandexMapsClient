@@ -12,4 +12,6 @@ Features:
 * Solving direct geodetic problem;
 * Solving reverse geodetic problem 
 
-![Widget screenshot](./Screenshot.png)
+![Widget screenshot Yandex](./Screenshot.png)
+
+![Widget screenshot WMS](./Screenshot2.png)
