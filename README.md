@@ -5,11 +5,11 @@ Qt4 map viewing widget: downloads and shows map tiles from legacy yandex.maps se
 
 Features:
 
-*Downloads map tiles;
-*Shows map tiles as a map;
-*Supports scale levels;
-*Support mouse control: drag for move, wheel for scale;
-*Solving direct geodetic problem;
-*Solving reverse geodetic problem 
+* Downloads map tiles from legacy Yandex interface and WMS;
+* Shows map tiles as a map;
+* Supports scale levels;
+* Support mouse control: drag for move, wheel for scale;
+* Solving direct geodetic problem;
+* Solving reverse geodetic problem 
 
 ![Widget screenshot](./Screenshot.png)
